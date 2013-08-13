@@ -14,22 +14,22 @@
         document.addEventListener("deviceready", onDeviceReady, false);
 
         function onDeviceReady() {
-            checkConnection();
+
         }
 
         function checkConnection() {
             var networkState = navigator.network.connection.type;
 
             var states = {};
-            states[Connection.UNKNOWN]  = 'Conexão desconhecida';
-            states[Connection.ETHERNET] = 'COnexão por cabo LAN';
-            states[Connection.WIFI]     = 'conexão WiFi ';
-            states[Connection.CELL_2G]  = 'Conexão Celular 2G ';
-            states[Connection.CELL_3G]  = 'Conexão Celular 3G';
-            states[Connection.CELL_4G]  = 'Conexão Celular 4G';
+            states[Connection.UNKNOWN]  = ' desconhecida';
+            states[Connection.ETHERNET] = ' cabo LAN';
+            states[Connection.WIFI]     = ' WiFi ';
+            states[Connection.CELL_2G]  = ' Celular 2G ';
+            states[Connection.CELL_3G]  = ' Celular 3G';
+            states[Connection.CELL_4G]  = ' Celular 4G';
             states[Connection.NONE]     = 'Nenhuma conexão';
 
-            alert('Connection type: ' + states[networkState]);
+            alert('Você está conectado via ' + states[networkState]);
         }
 
     </script>
@@ -42,9 +42,10 @@
         <div class="app">
             <h1>Testando Conexão</h1>
             <div id="deviceready" class="blink">
-            <button onClick="checkConnection();" > Teste sua conexão </button>
 
             </div>
+            <button onClick="checkConnection();" > Teste sua conexão </button>
+
         </div>
     </body>
 </html>
