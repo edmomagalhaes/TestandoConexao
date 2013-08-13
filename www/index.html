@@ -24,9 +24,9 @@
             states[Connection.UNKNOWN]  = ' desconhecida';
             states[Connection.ETHERNET] = ' cabo LAN';
             states[Connection.WIFI]     = ' WiFi ';
-            states[Connection.CELL_2G]  = ' Celular 2G ';
-            states[Connection.CELL_3G]  = ' Celular 3G';
-            states[Connection.CELL_4G]  = ' Celular 4G';
+            states[Connection.CELL_2G]  = ' tecnologia 2G ';
+            states[Connection.CELL_3G]  = ' tecnologia 3G';
+            states[Connection.CELL_4G]  = ' tecnologia 4G';
             states[Connection.NONE]     = 'Nenhuma conexão';
 
             alert('Você está conectado via ' + states[networkState]);
@@ -42,10 +42,8 @@
         <div class="app">
             <h1>Testando Conexão</h1>
             <div id="deviceready" class="blink">
-
             </div>
-            <button onClick="checkConnection();" > Teste sua conexão </button>
-
+            <button class="event" onClick="checkConnection();" > Teste sua conexão </button>
         </div>
     </body>
 </html>

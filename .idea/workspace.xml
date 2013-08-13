@@ -8,7 +8,7 @@
     <ignored path="TestandoConexao.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432614564" ignored="false" />
-    <file path="/index.html" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376434673477" ignored="false" />
+    <file path="/index.html" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376435374060" ignored="false" />
     <file path="/config.xml" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432813470" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="124" selection-start="681" selection-end="681" vertical-scroll-proportion="0.078341015">
+            <state line="45" column="20" selection-start="1541" selection-end="1555" vertical-scroll-proportion="-20.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="116" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
+            <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.1555233">
               <folding />
             </state>
           </provider>
@@ -75,8 +75,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/config.xml" />
-        <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
       </list>
     </option>
   </component>
@@ -323,16 +323,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="116" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
+        <state line="45" column="20" selection-start="1541" selection-end="1555" vertical-scroll-proportion="-20.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="124" selection-start="681" selection-end="681" vertical-scroll-proportion="0.078341015">
+        <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.1555233">
           <folding />
         </state>
       </provider>
