@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="369d7fae-80e8-475f-825e-5b91f9664b08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-    </list>
+    <list default="true" id="369d7fae-80e8-475f-825e-5b91f9664b08" name="Default" comment="" />
     <ignored path="TestandoConexao.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432614564" ignored="false" />
@@ -41,7 +38,7 @@
       <file leaf-file-name="index.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.1555233">
+            <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.7877907">
               <folding />
             </state>
           </provider>
@@ -332,7 +329,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.1555233">
+        <state line="82" column="36" selection-start="3198" selection-end="3198" vertical-scroll-proportion="1.7877907">
           <folding />
         </state>
       </provider>
