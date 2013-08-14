@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369d7fae-80e8-475f-825e-5b91f9664b08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
     </list>
     <ignored path="TestandoConexao.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432614564" ignored="false" />
     <file path="/index.html" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376439983419" ignored="false" />
-    <file path="/config.xml" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432813470" ignored="false" />
+    <file path="/config.xml" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376441591631" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.40092167">
+            <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="-10.875">
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -49,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="46" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+            <state line="1" column="35" selection-start="74" selection-end="74" vertical-scroll-proportion="0.021802325">
               <folding />
             </state>
           </provider>
@@ -76,9 +75,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -268,13 +267,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="46" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -334,10 +326,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.40092167">
+        <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="-10.875">
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="35" selection-start="74" selection-end="74" vertical-scroll-proportion="0.021802325">
+          <folding />
         </state>
       </provider>
     </entry>
