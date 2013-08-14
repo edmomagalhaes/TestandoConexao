@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369d7fae-80e8-475f-825e-5b91f9664b08" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="TestandoConexao.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432614564" ignored="false" />
-    <file path="/index.html" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376435374060" ignored="false" />
+    <file path="/index.html" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376439983419" ignored="false" />
     <file path="/config.xml" changelist="369d7fae-80e8-475f-825e-5b91f9664b08" time="1376432813470" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="31" selection-start="761" selection-end="761" vertical-scroll-proportion="0.32258064">
+            <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.40092167">
               <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -44,7 +43,7 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="36" selection-start="3195" selection-end="3195" vertical-scroll-proportion="0.0">
+            <state line="59" column="1" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,8 +77,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/config.xml" />
-        <option value="$PROJECT_DIR$/www/css/index.css" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
       </list>
     </option>
   </component>
@@ -328,17 +327,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="36" selection-start="3195" selection-end="3195" vertical-scroll-proportion="0.0">
+        <state line="59" column="1" selection-start="2518" selection-end="2518" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="761" selection-end="761" vertical-scroll-proportion="0.32258064">
+        <state line="52" column="34" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.40092167">
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
